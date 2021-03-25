@@ -1,6 +1,6 @@
 # ReadXmlAngular8
 
-Projeto destinado a leitura de arquivos XML.
+Aplicação destinada a leitura de arquivos XML.
 
 ## Inicialização
 
